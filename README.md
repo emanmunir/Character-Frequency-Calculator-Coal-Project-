@@ -1,5 +1,4 @@
-# Character-Frequency-Calculator-Coal-Project-
-# Character Frequency Calculator
+# Character Frequency Calculator (Coal Project)
 
 ## Overview
 
@@ -7,12 +6,13 @@ This character frequency calculator is implemented in x86 assembly language. The
 
 ## File Structure
 
-- `freq_calc.asm`: Assembly code file containing the character frequency calculator.
+- `cproj.asm`: Assembly code file containing the character frequency calculator.
 - `README.md` (this file): Readme file providing information about the program.
+
 
 ## Usage
 
-1. Assemble and link the `freq_calc.asm` file using an appropriate x86 assembler and linker.
+1. Assemble and link the `cproj.asm` file using an appropriate x86 assembler and linker.
 2. Run the resulting executable to input a string and choose the display format.
 
 ## Procedures
@@ -42,15 +42,14 @@ This character frequency calculator is implemented in x86 assembly language. The
 - The program uses x86 assembly language and is designed to run on DOS-like environments.
 - Ensure proper setup and configuration of your assembler and linker to build and run the program.
 
-## License
-
-This program is provided as-is under the open-source license. Refer to the LICENSE file for more details.
 
 ## Author
 
-- [Your Name]
-- [Your Email]
+- BSDSF21A010 EMAN ZAHID
+-	BSDSF21A022 ZOHA EMAAN
+-	BSDSF21A024 EMAN MUNIR
+-	BSDSF21A026 ZOBIA BILAL
+-	BSDSF21A040 BARIRA SAJJAD
 
-## Contact
 
-For issues or inquiries, contact the author at [Your Email].
+
